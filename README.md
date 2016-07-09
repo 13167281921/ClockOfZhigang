@@ -1,2 +1,2 @@
 # ClockOfZhigang
-钟表类的
+CALayer写了一个钟表
